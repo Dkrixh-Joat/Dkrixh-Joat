@@ -56,7 +56,7 @@ th {
 </h1>
 
 <p align="center">
-  <img src="./assets/banner_ak_pixel.gif" width="100%" alt="Retro Anime Pixel Banner"/>
+  <img src="./assets/banner_ak_pixel.gif" width="100%" height="50" alt="Retro Anime Pixel Banner"/>
 </p>
 
 ---
