@@ -13,8 +13,8 @@
 ---
 
 <div class="section" style="background: rgba(24,24,24,0.8); border: 3px solid #6D3D9F; padding: 16px; margin: 20px 0; border-radius: 8px;">
-  <p align="right">
-    <img src="./assets/pirate_flag_pixel.gif" width="120" alt="Pirate Flag Pixel GIF"/>
+  <p align="center">
+    <img src="./assets/pirate_flag_pixel.gif" width="240" alt="Pirate Flag Pixel GIF"/>
   </p>
   <h3 style="color: #FFC900; font-family: 'Press Start 2P', monospace; letter-spacing: 2px;">🕹️ About Me: UI Alchemist & Creative Jōnin</h3>
 
@@ -45,7 +45,7 @@
   
   **Advanced Jutsu (Passive Skills):** 🎞️ Video Editing (<span style="color: #FF7AF6;">CapCut/Resolve</span>) • 📷 Photography • 🎧 Audio Syncing • 🎨 Color Grading • 💡 UI Animation • 🧠 **AI & EdTech Integration**
   
-  <p align="left">
+  <p align="center">
     <img src="./assets/chakra_orb.gif" width="360" alt="Chakra Orb GIF"/>
   </p>
 </div>
@@ -116,8 +116,8 @@
 ---
 
 <div class="section" style="background: rgba(24,24,24,0.8); border: 3px solid #6D3D9F; padding: 16px; margin: 20px 0; border-radius: 8px;">
-  <p align="right">
-    <img src="./assets/jojo_pose.gif" width="120" alt="Jojo Pose GIF"/>
+  <p align="center">
+    <img src="./assets/jojo_pose.gif" width="240" alt="Jojo Pose GIF"/>
   </p>
   <h3 style="color: #FFC900; font-family: 'Press Start 2P', monospace; letter-spacing: 2px;">🌀 Connect & Collaborate: Form a Squad!</h3>
   
