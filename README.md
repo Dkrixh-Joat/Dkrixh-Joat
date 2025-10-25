@@ -109,7 +109,7 @@
   <h3 style="color: #FFC900; font-family: 'Press Start 2P', monospace; letter-spacing: 2px;">📺 Code Flow Chart: Language Mastery</h3>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark&langs_count=6" alt="Code Flow Chart" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?Dkrixh-Joat&layout=compact&hide_border=true&theme=dark&langs_count=6" alt="Code Flow Chart" />
   </p>
 </div>
 
@@ -122,9 +122,9 @@
   <h3 style="color: #FFC900; font-family: 'Press Start 2P', monospace; letter-spacing: 2px;">🌀 Connect & Collaborate: Form a Squad!</h3>
   
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FF7AF6?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-00FFC6?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-    <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=react&logoColor=black"/></a>
+    <a href="https://www.linkedin.com/in/anandhakrishnan-reji/"><img src="https://img.shields.io/badge/LinkedIn-FF7AF6?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+    <a href="mailto:anandhakrishnanreji.cbe@gmail.com"><img src="https://img.shields.io/badge/Email-00FFC6?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+    <a href="https://bento.me/anandhakrishnan-reji"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=react&logoColor=black"/></a>
   </p>
 </div>
 
