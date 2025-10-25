@@ -14,7 +14,7 @@
 
 <div class="section" style="background: rgba(24,24,24,0.8); border: 3px solid #6D3D9F; padding: 16px; margin: 20px 0; border-radius: 8px;">
   <p align="right">
-    <img src="./assets/pirate_flag_pixel.gif" width="60" alt="Pirate Flag Pixel GIF"/>
+    <img src="./assets/pirate_flag_pixel.gif" width="100" alt="Pirate Flag Pixel GIF"/>
   </p>
   <h3 style="color: #FFC900; font-family: 'Press Start 2P', monospace; letter-spacing: 2px;">🕹️ About Me: UI Alchemist & Creative Jōnin</h3>
 
@@ -35,7 +35,7 @@
   <h3 style="color: #FFC900; font-family: 'Press Start 2P', monospace; letter-spacing: 2px;">⚔️ Jōnin's Skill Inventory: The Scroll of Tools</h3>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ae,ps,ai,davinciresolve,capcut,html,css,js,python,cs,dotnet,arduino,vscode,github,chatgpt,gemini,cursor&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma,ae,ps,ai,davinciresolve,capcut,html,css,js,bootstrap,python,cs,dotnet,sqlite,arduino,vscode,github,chatgpt,gemini,cursor&theme=dark" />
     <img src="https://custom-icon-badges.demolab.com/badge/PROMPT%20ENGINEERING-FFC900?style=for-the-badge&logoColor=black&logo=brain" />
     <img src="https://custom-icon-badges.demolab.com/badge/VIBECODING-FF7AF6?style=for-the-badge&logoColor=white&logo=musicalnote" />
     <img src="https://custom-icon-badges.demolab.com/badge/FULL%20STACK-00FFC6?style=for-the-badge&logoColor=black&logo=code" />
@@ -46,7 +46,7 @@
   **Advanced Jutsu (Passive Skills):** 🎞️ Video Editing (<span style="color: #FF7AF6;">CapCut/Resolve</span>) • 📷 Photography • 🎧 Audio Syncing • 🎨 Color Grading • 💡 UI Animation • 🧠 **AI & EdTech Integration**
   
   <p align="left">
-    <img src="./assets/chakra_orb.gif" width="100" align="center" alt="Chakra Orb GIF"/>
+    <img src="./assets/chakra_orb.gif" width="100" alt="Chakra Orb GIF"/>
   </p>
 </div>
 
@@ -117,7 +117,7 @@
 
 <div class="section" style="background: rgba(24,24,24,0.8); border: 3px solid #6D3D9F; padding: 16px; margin: 20px 0; border-radius: 8px;">
   <p align="right">
-    <img src="./assets/jojo_pose.gif" width="70" alt="Jojo Pose GIF"/>
+    <img src="./assets/jojo_pose.gif" width="100" alt="Jojo Pose GIF"/>
   </p>
   <h3 style="color: #FFC900; font-family: 'Press Start 2P', monospace; letter-spacing: 2px;">🌀 Connect & Collaborate: Form a Squad!</h3>
   
