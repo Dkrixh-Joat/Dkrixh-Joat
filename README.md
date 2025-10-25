@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/banner_ak_pixel.gif" alt="Retro Anime Pixel Banner"/>
+  <img src="./assets/banner_ak_pixel.gif" width="90%" alt="Vibrant Pop Art Anime Banner"/>
 </p>
 
 ---
