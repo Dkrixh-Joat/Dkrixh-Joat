@@ -1,7 +1,7 @@
 <!-- 🎮 PIXEL NO JUTSU: The GitHub Profile of D.Krixh-Joat -->
 
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=800&color=FF7AF6&center=true&vCenter=true&width=500&lines=Welcome+to+the+D.Krixh-Joat+Verse!;UI+Shinobi+%7C+IoT+Tinkerer+%7C+Motion+Artist;Design+No+Jutsu+%E2%9A%A1+Active..." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=800&color=FF7AF6&center=true&vCenter=true&width=720&lines=Welcome+to+the+D.Krixh-Joat+Verse!;UI+Shinobi+%7C+IoT+Tinkerer+%7C+Motion+Artist;Design+No+Jutsu+%E2%9A%A1+Active..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
