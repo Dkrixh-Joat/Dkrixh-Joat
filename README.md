@@ -46,7 +46,7 @@
   **Advanced Jutsu (Passive Skills):** 🎞️ Video Editing (<span style="color: #FF7AF6;">CapCut/Resolve</span>) • 📷 Photography • 🎧 Audio Syncing • 🎨 Color Grading • 💡 UI Animation • 🧠 **AI & EdTech Integration**
   
   <p align="left">
-    <img src="./assets/chakra_orb.gif" width="120" alt="Chakra Orb GIF"/>
+    <img src="./assets/chakra_orb.gif" width="360" alt="Chakra Orb GIF"/>
   </p>
 </div>
 
