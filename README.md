@@ -18,14 +18,14 @@
   </p>
   <h3 style="color: #FFC900; letter-spacing: 2px; font-size: 1.2em;">🕹️ About Me: UI Alchemist & Creative Jōnin</h3>
 
-  <p style="margin: 10px 0;">
-    <span style="color: #FF7AF6;">&gt;</span> 🪄 **UI/UX Alchemist** transmuting wireframes into pure-pixel gold (Ghibli magic). <br>
-    <span style="color: #FF7AF6;">&gt;</span> 🧠 **AI Hokage** directing the elemental chakra of Prompt Engineering. <br>
-    <span style="color: #FF7AF6;">&gt;</span> ⚙️ **Full Stack Ninja** weaving the threads of front-end and back-end logic. <br>
-    <span style="color: #FF7AF6;">&gt;</span> 🌊 **Windsurfing Sorcerer** (Wind-Style Jutsu) — always in motion. <br><br>
-    <span style="color: #FF7AF6;">&gt;</span> 📜 **My House:** Ravenclaw logic meets Gryffindor audacity. <br>
-    <span style="color: #FF7AF6;">&gt;</span> 🌑 Freelancing since 2023—where machine logic and human imagination perform the 'Stand' of creation (Jojo's Bizarre Adventure). <br><br>
-    <span style="color: #73C7FF;">&gt;</span> **“If you can imagine it in a One Piece bounty poster, you can code it IRL! Believe it!”**
+  <p style="margin: 10px 0; padding-left: 10px;">
+    <span style="color: #FF7AF6;">★</span> 🪄 **UI/UX Alchemist** transmuting wireframes into pure-pixel gold (Ghibli magic). <br>
+    <span style="color: #FF7AF6;">★</span> 🧠 **AI Hokage** directing the elemental chakra of Prompt Engineering. <br>
+    <span style="color: #FF7AF6;">★</span> ⚙️ **Full Stack Ninja** weaving the threads of front-end and back-end logic. <br>
+    <span style="color: #FF7AF6;">★</span> 🌊 **Windsurfing Sorcerer** (Wind-Style Jutsu) — always in motion. <br><br>
+    <span style="color: #FFC900;">★</span> 📜 **My House:** Ravenclaw logic meets Gryffindor audacity. <br>
+    <span style="color: #FFC900;">★</span> 🌑 Freelancing since 2023—where machine logic and human imagination perform the 'Stand' of creation (Jojo's Bizarre Adventure). <br><br>
+    <span style="color: #73C7FF;">★</span> **“If you can imagine it in a One Piece bounty poster, you can code it IRL! Believe it!”**
   </p>
 </div>
 
@@ -35,9 +35,8 @@
   <h3 style="color: #FFC900; letter-spacing: 2px; font-size: 1.2em;">⚔️ Jōnin's Skill Inventory: The Scroll of Tools</h3>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,ae,ps,ai,davinciresolve,capcut,html,css,js,bootstrap,python,cs,dotnet,sqlite,arduino,vscode,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=figma,ae,ps,ai,davinciresolve,capcut,html,css,js,bootstrap,python,cs,dotnet,sqlite,arduino,vscode,github,chatgpt,gemini,cursor&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=chatgpt,gemini,cursor&theme=dark" />
     <img src="https://custom-icon-badges.demolab.com/badge/PROMPT%20ENGINEERING-FFC900?style=for-the-badge&logoColor=black&logo=brain" />
     <img src="https://custom-icon-badges.demolab.com/badge/VIBECODING-FF7AF6?style=for-the-badge&logoColor=white&logo=musicalnote" />
     <img src="https://custom-icon-badges.demolab.com/badge/FULL%20STACK-00FFC6?style=for-the-badge&logoColor=black&logo=code" />
@@ -97,7 +96,9 @@
 <div style="background: rgba(24,24,24,0.8); border: 3px solid #6D3D9F; padding: 16px; margin: 20px 0; border-radius: 8px;">
   <h3 style="color: #FFC900; letter-spacing: 2px; font-size: 1.2em;">💫 Chakra Control: My Design Philosophy</h3>
 
-  > **"Creating is an act of Chakra Control: you focus your intent, experiment, and constantly refine the flow until the complex logic and the playful visuals merge into a perfect jutsu. This is the way of the Code Jōnin."**
+  <p style="margin-top: 10px; margin-bottom: 10px;">
+    **"Creating is an act of Chakra Control: you focus your intent, experiment, and constantly refine the flow until the complex logic and the playful visuals merge into a perfect jutsu. This is the way of the Code Jōnin."**
+  </p>
   
   <p style="margin-top: 15px;">
     <strong style="color: #FF7AF6;">🧩 Universe of Skills:</strong>
@@ -113,11 +114,18 @@
 ---
 
 <div style="background: rgba(24,24,24,0.8); border: 3px solid #6D3D9F; padding: 16px; margin: 20px 0; border-radius: 8px;">
-  <h3 style="color: #FFC900; letter-spacing: 2px; font-size: 1.2em;">📺 Code Flow Chart: Language Mastery</h3>
+  <h3 style="color: #FFC900; letter-spacing: 2px; font-size: 1.2em;">📺 Mastery Flow: Skill Affinity</h3>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark&langs_count=6" alt="Code Flow Chart" />
+    <img src="https://img.shields.io/badge/Design%20Jutsu%20(Figma%2FPS%2FAe)-Master-FF7AF6?style=for-the-badge&logo=adobe&logoColor=black"/>
+    <img src="https://img.shields.io/badge/IoT%20Ninjutsu%20(Arduino%2FESP)-Expert-73C7FF?style=for-the-badge&logo=arduino&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vibecoding%20(Front%20End%2FJS)-Adept-00FFC6?style=for-the-badge&logo=html5&logoColor=black"/>
+    <img src="https://img.shields.io/badge/AI%20Chakra%20(Prompts%2FGemini)-Adept-FFC900?style=for-the-badge&logo=google&logoColor=black"/>
+    <img src="https://img.shields.io/badge/.NET%2FPython%20Logic-Apprentice-B6FF99?style=for-the-badge&logo=python&logoColor=black"/>
   </p>
+
+  <p align="center" style="margin-top: 15px;">
+    </p>
 </div>
 
 ---
